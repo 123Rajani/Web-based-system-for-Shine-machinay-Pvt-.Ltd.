@@ -1,2 +1,3 @@
 # Web-based-system-for-Shine-machinay-Pvt-.Ltd.
 This group project is about creating a web based platform for shine machinery (Pvt).Ltd for rental purposes and manage records. 
+The website provides basic information about the company and allows the client to check the status of equipment availability. There is an interface for clients to contact company officials for further details. A client can create an account for themselves to book a rental, and once the client has signed up, they can login using the username and password. When a customer decides to reserve a rental, they may do so by entering the necessary information into a form. Furthermore, the advertising and payment methods are on hold and will be created later.
